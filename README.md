@@ -2,7 +2,7 @@
 ### <h1>Repos de Wendy Sanjinés</h1>
 ### Hola gente 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?usernamewendysanjinesm)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=wendysanjinesm&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **wendysanjinesm/wendysanjinesm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
