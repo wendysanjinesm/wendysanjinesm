@@ -1,5 +1,6 @@
-### Hi there 👋
-### <h1>wendy sanjinés</h1>
+
+### <h1>Repos de Wendy Sanjinés</h1>
+### Hola gente 👋
 <!--
 **wendysanjinesm/wendysanjinesm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
